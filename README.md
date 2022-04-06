@@ -23,5 +23,15 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 The data given below contains the information about past loan applicants and whether they ‘defaulted’ or not. how consumer attributes and loan attributes influence the tendency of default.
 
+## Technologies Used
+Approch :
+Data Cleanning
+Data Understanding
+Data transformation
+Univariate Analysis
+Bivariate Analysis
 
+Technogies : Python ( Juypyter Notebook ) and its libraries : NumPy, pandas, Matplotlib, seaborn etc., Git/GitHub, Microsoft office.
+
+## Conclusions
 
