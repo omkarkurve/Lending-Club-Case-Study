@@ -4,7 +4,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 
 ## General Information
@@ -55,3 +55,6 @@ Technogies : Python ( Juypyter Notebook ) and its libraries : NumPy, pandas, Mat
 
 #### Clearly shows that having total_acc between 0 and 20, increases the chances of Charged Off
 
+## Contributors
+### Shivam Gupta
+### Omkar kurve
