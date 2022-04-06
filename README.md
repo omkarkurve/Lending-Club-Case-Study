@@ -34,4 +34,24 @@ Bivariate Analysis
 Technogies : Python ( Juypyter Notebook ) and its libraries : NumPy, pandas, Matplotlib, seaborn etc., Git/GitHub, Microsoft office.
 
 ## Conclusions
+#### 1.So for us only important factors are Fully paid and charged off for comparison
+#### Fully paid : 83%
+##### Charged off : 14.2%
+
+#### It is clear that as sub grade decreases, then the chances of loan getting charged off increases. 
+#### Lending club should examine more information from borrowers before issuing loans to Low grade (G to A)
+
+##### This endorses the previous assumption for home ownership, that having loan adds to liability, which the user with higher int rate doesn't able to pay his loan back and does gets Charged OFF
+
+#### Only for 0 experience the charged off percentage is more than 20, for the rest it is increasing slowly with experience (maybe as less experience people are bachelors thus less responsibility, and more experience are with family)
+
+#### Lending club should reduce the high interest loans for 60 months tenure, they are prone to loan default
+
+#### Charged off tends to increase when dti increases
+
+#### lower the enquires higher are the chances of payment
+
+#### For revol_acc > 8515 i.e. the median, the charged off is higher by 5%
+
+#### Clearly shows that having total_acc between 0 and 20, increases the chances of Charged Off
 
